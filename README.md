@@ -1,16 +1,17 @@
-## Hi there 👋
+  # Olá! 👋
 
-<!--
-**alysson-ml/alysson-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### 👨‍💻 Sobre mim:
 
-Here are some ideas to get you started:
+  - 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFFAR Campus Alegrete.
+  - 💻 Tenho interesse em Desenvolvimento Full-Stack.
+  - 🎮 Gosto de jogos, RPG e livros de fantasia.
+  - 🗣️ Falo inglês básico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 🖥️ Skills:
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,java,jquery,mysql,php,postgres,py,)](https://skillicons.dev)
+
+  ### 🛠️ Ferramentas:
+
+  [![My Skills](https://skillicons.dev/icons?i=linux,mint,figma,git,vscode)](https://skillicons.dev)
+  
